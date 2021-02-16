@@ -1,0 +1,6 @@
+region: us-east-1
+quantity: 3
+items:
+  - databases
+  - loadbalancers
+  - firewalls

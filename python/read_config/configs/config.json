@@ -1,0 +1,17 @@
+{
+    "people": [
+        {
+            "color": "red", 
+            "fruit": "apple", 
+            "name": "Scott"
+        },{
+            "color": "yellow", 
+            "fruit": "Pear", 
+            "name": "Steve"
+        },{
+            "color": "black", 
+            "fruit": "cactus", 
+            "name": "Johnny"
+        }
+    ]
+}
